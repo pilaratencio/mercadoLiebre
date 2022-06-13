@@ -1,0 +1,86 @@
+/*
+● Paleta de colores
+Amarillo: #EAC926;
+Azul: #03264C;
+Celeste: #1259c3;
+Gris oscuro: #666;
+Gris claro: #ebebeb;
+Verde: #39b54a;
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+rel="stylesheet" />
+*/
+html{
+    font-family: 'Roboto';
+    align-items: center;
+}
+body{
+    background-color: #ebebeb ;
+    font-family: 'Roboto';
+    background-size: 12px;
+}
+header{
+    background-color:#EAC926;
+}
+ul{
+    list-style-type:none;
+    padding: 0%;
+}
+
+article img{
+    margin-bottom: 10px;
+}
+
+.comprasEnCuotas{
+    align-content: center;
+}
+.cuerpoDeTexto{
+    font-size: 12px;
+}
+
+.titulares{
+    background-size: 24px;
+
+}
+.precio{
+    background-size: 18px
+}
+.descuentos{
+    background-size: 16px
+}
+.descripciones{
+    background-size: 16px
+}
+
+footer{
+    text-align: center;
+    background-color: #ffffff;
+}
+article{
+    text-align: center;
+
+}
+.icono{
+    color: #1259c3;
+    background-color: #ffffff;
+    size: 2em;
+    margin-bottom: 10px;
+}
+
+img{
+    size: 400px;
+}
+
+.container-bm{
+    text-align: center;
+}
+div button {
+    margin: 15px auto;
+    color:  #ffffff;
+    background-color: #1259c3;
+    border-radius: 5px;
+    border: #1259c3;
+    padding: 10px;
+}
+
+
